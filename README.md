@@ -112,9 +112,7 @@ FIFO_Project/
 
 ## 📎 Tools Used
 
-- Verilog HDL
 - Xilinx Vivado (Simulation)
-- GTKWave (optional waveform viewing)
 
 ---
 
