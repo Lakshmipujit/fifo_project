@@ -77,14 +77,14 @@ Waveform screenshot is available in the Simulation folder.
 
 FIFO_Project/
 │
-├── RTL/
-│ └── fifo.v
+├── fifo.v
 │
-├── TB/
-│ └── fifo_tb.v
 │
-├── Simulation/
-│ └── waveform.png
+├── fifo_tb.v
+│
+│
+├── fifo1.png(simulation waveform)
+│
 │
 └── README.md
 
